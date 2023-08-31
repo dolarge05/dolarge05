@@ -8,3 +8,4 @@
 - 👩‍💻 Software Development @[3mind_tech](https://3mind.com.br/)
 - 🌐 Passionate about software development
 - 💡 Love a good challenge
+
