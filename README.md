@@ -4,8 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-geraldojunior0503@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geraldojunior0503@gmail.com)](mailto:geraldojunior0503@gmail.com)
 
 ## My name is Geraldo Salles Lobo
-  (HTML | CSS | Python | Java | SQL) 🚀
-- 👩‍💻 Software Development @[3mind_tech](https://3mind.com.br/)
+  (Software Developer | Fullstack Web & Mobile | JavaScript | Flutter | Bubble.io | Supabase | AI & Automation) 🚀
 - 🌐 Passionate about software development
 - 💡 Love a good challenge
 
